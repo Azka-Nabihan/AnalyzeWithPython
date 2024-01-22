@@ -1,1 +1,2 @@
 https://analyzewithpython-jtuqpky4nuekk3jjzmcsxm.streamlit.app/
+https://github.com/Azka-Nabihan/AnalyzeWithPython.git
