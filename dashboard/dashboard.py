@@ -56,7 +56,7 @@ def create_rfm_df(df):
     return rfm_df
 
 
-main_df = pd.read_csv("final.csv")
+main_df = pd.read_csv("day.csv")
 
 # memanggil helper function
 dayUser_df = create_dayUser(main_df)
